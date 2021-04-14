@@ -3,3 +3,5 @@
 2. Everything is going to be new and it's okay if that feels overwhelming. Just chip away at it. Practice. Read or take notes repeatedly as needed. Don't get too stressed if things take a lot of time at first exposure.
 
 ** Shoutout to Navead for picking up slack and being a teamplayer**
+
+3. Git is wild. It's definitely going to take repetition and careful attention to not mess it up left and right
